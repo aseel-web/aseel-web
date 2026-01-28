@@ -1,12 +1,17 @@
 # Hi ,I'm Aseel Salem!
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=45&pause=1000&color=79ffad&center=true&vCenter=true&width=600&lines=Hi,+I'm+Aseel+Salem;Computer+Science+@+HITSZ;Developing+in+Python;Mastering+C++;Exploring+JavaScript" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=35&pause=1000&color=00D1FF&center=true&vCenter=true&width=500&lines=ASEEL+SALEM;CS+STUDENT+@+HITSZ;MASTERING+C++;PYTHON+DEVELOPER" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/HITSZ-Shenzhen-0052cc?style=for-the-badge&logo=china-railway&logoColor=white" />
-  <img src="https://komarev.com/ghpvc/?username=aseel-web&color=79ffad&style=flat-square&label=VISITORS" />
+  <img src="https://img.shields.io/badge/PYTHON-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=aseel-web&color=00D1FF&style=flat-square&label=SYSTEM+ACCESS" />
 </p>
 
 ### 🎓 About Me
