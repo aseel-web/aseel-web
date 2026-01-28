@@ -1,12 +1,12 @@
 # Hi ,I'm Aseel Salem!
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=slice&color=auto&height=200&section=header&text=Aseel%20Salem&fontSize=70&animation=fadeIn&fontAlignY=35&method=google" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=000000&height=160&section=header&text=ASEEL%20SALEM&fontSize=70&fontColor=ffffff&animation=fadeIn" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/HITSZ-Computer%20Science-blue?style=flat-square&logo=academia" />
-  <img src="https://komarev.com/ghpvc/?username=aseel-web&color=blueviolet&style=flat-square&label=VIEWS" />
+  <img src="https://img.shields.io/badge/HITSZ-STUDENT-0052cc?style=for-the-badge&logo=internetexplorer&logoColor=white" />
+  <img src="https://img.shields.io/badge/CS-MAJOR-ff4500?style=for-the-badge&logo=computer&logoColor=white" />
 </p>
 
 ### 🎓 About Me
