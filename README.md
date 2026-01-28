@@ -1,4 +1,4 @@
-# Hi ,I'm Aseel Salem!
+#  Welcome To My Profile ,I'm Aseel Salem!
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=2D1B10&height=160&section=header&text=ASEEL%20SALEM&fontSize=70&fontColor=D4AF37&animation=twinkling&fontAlignY=40" />
@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=26&pause=1000&color=D4AF37&center=true&vCenter=true&width=500&lines=DEVELOPING+IN+PYTHON;MASTERING+C++;WORKING+WITH+JAVASCRIPT" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=26&pause=1000&color=D4AF37&center=true&vCenter=true&width=500&lines=DEVELOPING+IN+C++" />
 </p>
 
 ### 🎓 About Me
