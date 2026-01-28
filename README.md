@@ -1,7 +1,11 @@
 # Hi ,I'm Aseel Salem!
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Welcome%20to%20my%20Profile&fontSize=80&animation=fadeIn" alt="Header Image" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=120&section=header&text=Aseel%20Salem&fontSize=50&animation=twinkling&fontAlignY=40" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=aseel-web&color=blueviolet&style=flat-square&label=PROFILE+VIEWS" />
 </p>
 
 ### 🎓 About Me
