@@ -1,11 +1,12 @@
 # Hi ,I'm Aseel Salem!
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=120&section=header&text=Aseel%20Salem&fontSize=50&animation=twinkling&fontAlignY=40" />
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=auto&height=200&section=header&text=Aseel%20Salem&fontSize=70&animation=fadeIn&fontAlignY=35&method=google" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=aseel-web&color=blueviolet&style=flat-square&label=PROFILE+VIEWS" />
+  <img src="https://img.shields.io/badge/HITSZ-Computer%20Science-blue?style=flat-square&logo=academia" />
+  <img src="https://komarev.com/ghpvc/?username=aseel-web&color=blueviolet&style=flat-square&label=VIEWS" />
 </p>
 
 ### 🎓 About Me
