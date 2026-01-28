@@ -1,17 +1,27 @@
 # Hi ,I'm Aseel Salem!
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=35&pause=1000&color=00D1FF&center=true&vCenter=true&width=500&lines=ASEEL+SALEM;CS+STUDENT+@+HITSZ;MASTERING+C++;PYTHON+DEVELOPER" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,2,3,4,5,6,7,8,9,10&height=200&section=header&text=Aseel%20Salem&fontSize=70&animation=fadeIn&fontAlignY=35" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/PYTHON-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/HITSZ-STUDENT-00D1FF?style=for-the-badge&logo=electron&logoColor=white" />
+  <img src="https://komarev.com/ghpvc/?username=aseel-web&color=79ffad&style=for-the-badge&label=ACCESS+LOG" />
+</p>
+
+---
+
+### ⚡ Tech Stack
+<p align="center">
+  <img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/-----C%2B%2B-----%2300599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/JS-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=aseel-web&color=00D1FF&style=flat-square&label=SYSTEM+ACCESS" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,cpp,js,vscode,github,linux&theme=dark" />
+  </a>
 </p>
 
 ### 🎓 About Me
