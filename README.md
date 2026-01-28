@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Aseel Salem!
+# Hi ,I'm Aseel Salem!
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Welcome%20to%20my%20Profile&fontSize=80&animation=fadeIn" alt="Header Image" />
@@ -14,7 +14,7 @@
 ### 🛠️ Tech Stack
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,python,js,github,vscode,linux" />
+    <img src="https://skillicons.dev/icons?i=cpp,python,js,github,vscode" />
   </a>
 </p>
 
