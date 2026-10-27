@@ -29,6 +29,7 @@
 - **C++**: High-performance development.
 - **Python**: Scalable scripts and automation.
 - **JavaScript**: Interactive web experiences.
+- **HTML**:
 
 ---
 
