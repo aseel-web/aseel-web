@@ -44,6 +44,7 @@
 - 🌐 Studying at HITSZ, Shenzhen, China.
 - 📂 Check out my repositories for academic slides and coding projects.
 - WeChat ID: Aseel-00
+- Email: 2024331082@stu.hit.edu.cn
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=aseel-web&color=blueviolet&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
